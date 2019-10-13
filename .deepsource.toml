@@ -5,4 +5,4 @@ name = "go"
 enabled = true
 
 [analyzers.meta]
-		import_path = "github.com/sayanchowdhury/orlon"
+  import_path = "github.com/sayanchowdhury/orlon"
